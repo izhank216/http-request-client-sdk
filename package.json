@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "form-data": "^4.0.5",
-    "gaxios": "^7.1.3"
+    "gaxios": "^7.1.4"
   },
   "devDependencies": {
     "gts": "^7.0.0",
