@@ -1107,10 +1107,10 @@ function-bind@^1.1.2:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.2.tgz#2c02d864d97f3ea6c8830c464cbd11ab6eab7a1c"
   integrity sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==
 
-gaxios@^7.3.1:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/gaxios/-/gaxios-7.3.1.tgz#b26223db05856dfa5e2393ea376abad00e479c62"
-  integrity sha512-kB3rzJV7d9juLZh8/56QTXCwQfxyhdOMdyYk1HdQKFtF8TJTDTZQJtixWIwXdE9Jji91mC41DUNpjleo4L4eAQ==
+gaxios@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/gaxios/-/gaxios-8.0.0.tgz#8afebe676b6ca769eb8295e528873d4a244a34ca"
+  integrity sha512-UaktzloW/Hvb/VMNr/wxADpNOsfmnerPpZTthb9R0JzjVTYYcJ0N0o5HOMzKV3XplpcFMSoLj52h9IK/wRs9Gw==
   dependencies:
     extend "^3.0.2"
     https-proxy-agent "^7.0.1"
